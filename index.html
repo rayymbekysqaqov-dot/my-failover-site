@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+  <meta charset="UTF-8">
+  <title>Менің веб-сайтым</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Сайт жұмыс істеп тұр!</h1>
+  <p>Бұл сайт екі хостингте жарияланған.</p>
+
+  <a id="testBtn" class="button">Тексеру</a>
+
+  <script src="script.js"></script>
+</body>
+</html>
